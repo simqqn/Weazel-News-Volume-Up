@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://simqqn.github.io/Weazel-News-Volume-Up/sitemap.xml
